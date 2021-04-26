@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata_Boolean", "Kata_Boolea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata_Dragon", "Kata_Dragon\Kata_Dragon.csproj", "{67155E85-77B3-40FE-8AEA-A5A73AFFED44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_True_OR_False", "Kata_True_OR_False\Kata_True_OR_False.csproj", "{E5BA8EFB-4B28-4854-84CC-EABC2CA41CB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata_True_OR_False", "Kata_True_OR_False\Kata_True_OR_False.csproj", "{E5BA8EFB-4B28-4854-84CC-EABC2CA41CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_One-Two", "Kata_One-Two\Kata_One-Two.csproj", "{913B56CC-8087-45FD-9D38-53424EE390E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E5BA8EFB-4B28-4854-84CC-EABC2CA41CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5BA8EFB-4B28-4854-84CC-EABC2CA41CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5BA8EFB-4B28-4854-84CC-EABC2CA41CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913B56CC-8087-45FD-9D38-53424EE390E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913B56CC-8087-45FD-9D38-53424EE390E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913B56CC-8087-45FD-9D38-53424EE390E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913B56CC-8087-45FD-9D38-53424EE390E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
